@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubhansh Singh [Sunny].
-- 👀 I’m trying my hands in Coding and have mastered the basics of C/C++'
+- 👀 I’m trying my hands in Coding and know the basics of C/C++'
 - 🌱 I’m currently learning Python.
 
 <!---
