@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubhansh.
-- 👀 I’m trying my hands in Coding and know the basics of C/C++'
+- 👀 I know the basics of C/C++'
 - 🌱 I’m also trying my hands in WebD.
 
 <!---
